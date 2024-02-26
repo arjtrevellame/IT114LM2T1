@@ -49,7 +49,7 @@
         <asp:CheckBoxList runat="server" TextAlign="Left">
             <asp:ListItem Text="Taylor Swift" />
             <asp:ListItem Text="ColdPlay" />
-            <asp:ListItem Text="Nikki" />
+            <asp:ListItem Text="NIKI-Nicole Zefanya" />
         </asp:CheckBoxList>
 
         <%-- TODO 3.6 Create a FileUpload for their proof of payment. It must only accept JPG and PNG files. --%>
