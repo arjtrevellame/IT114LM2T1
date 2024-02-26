@@ -48,7 +48,7 @@
         <asp:Label Text=" Which performances are you planning to attend?" runat="server" />
         <asp:CheckBoxList runat="server" TextAlign="Left">
             <asp:ListItem Text="Taylor Swift" />
-            <asp:ListItem Text="ColdPlay" />
+            <asp:ListItem Text="Coldplay" />
             <asp:ListItem Text="NIKI-Nicole Zefanya" />
         </asp:CheckBoxList>
 
